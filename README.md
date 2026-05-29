@@ -75,7 +75,6 @@ FUTURE_PE_01/
 ├── prompts/
 ├── outputs/
 ├── screenshots/
-├── docs/
 └── README.md
 ```
 
